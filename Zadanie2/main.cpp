@@ -13,5 +13,4 @@ int main()
 	cin >>x;
 	cout<<"Sum = "<<sum(z,x)<<endl;
 	return 0;
-	
 }
